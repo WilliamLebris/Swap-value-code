@@ -18,7 +18,7 @@ int main(int argc, const char * argv[]) {
     cin >> b;
     
     z=b;
-    a = b;
+    b = a;
     a = z;
     
     cout << "Now the first number is "<< a << " and the second number is "<< b<< endl;
