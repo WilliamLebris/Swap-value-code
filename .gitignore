@@ -39,3 +39,6 @@
 *.xcworkspace/
 DerivedData/
 build/
+# Xcode project files
+*.xcodeproj/
+
