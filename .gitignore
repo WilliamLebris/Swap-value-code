@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+# macOS files
+.DS_Store
+*.swp
+
+# Xcode files
+*.xcuserdata/
+*.xcworkspace/
+DerivedData/
+build/
